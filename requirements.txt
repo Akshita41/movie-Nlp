@@ -1,5 +1,5 @@
 Flask==2.3.2
-gunicorn==19.9.0 
+gunicorn>=20.0.0
 Jinja2>=3.1.2
 MarkupSafe>=2.0
 Werkzeug>=2.0.0
@@ -12,9 +12,9 @@ beautifulsoup4==4.9.1
 jsonschema==3.2.0
 tmdbv3api==1.6.1
 lxml
-urllib3==1.26.5
-requests==2.23.0
+urllib3>=1.26.5
+requests>=2.23.0
 pickleshare==0.7.5
 streamlit==1.24.0
-plotly==5.14.1
-pillow==9.5.0
+plotly>=5.14.1
+pillow>=9.5.0
